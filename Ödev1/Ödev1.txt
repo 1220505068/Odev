@@ -1,0 +1,38 @@
+Algoritmayı neden analiz ederiz?
+
+Her hangi bir programlama dilinde yazılmış bir
+algoritmanın ne kadar hızlı çalıştığını veya ne
+kadar sürede çalıştığını o algoritmayı analiz ederek
+yapabiliriz. Peki, algoritma analizi nedir?
+Algoritma analizi denince akla iki önemli kavram
+gelir bunlar alan ve zaman karmaşıklığıdır.
+Alan karmaşıklığı yazdığınız algoritma
+bellekten ne kadar yer kullanıyor, zaman
+karmaşıklığı ise yazdığınız algoritmanın çalışma
+süresini ifade eder. Algoritma analizine neden
+ihtiyaç duyarız çünkü yazdığımız algoritmanın
+performansını bilmek isteriz, farklı algoritmalarla
+karşılaştırmak isteriz ve daha iyisi mümkün mü
+sorusuna ancak analiz yaparak cevap verebiliriz
+
+Algoritma analizini nasıl yaparız?
+
+Algoritma analizi, bir algoritmanın ne kadar hızlı çalıştığına ve ne kadar bellek kullandığına dair bir değerlendirme yapmaktır. Bu değerlendirme, algoritmanın verimliliğini belirlemek için önemlidir.
+
+Algoritma analizi, genellikle aşağıdaki adımları izler:
+
+Adım: Algoritmanın çalışma zamanını veya karmaşıklığını belirleyin. Bu adımda, algoritmanın adım sayısını belirleyebilir veya en kötü senaryoda ne kadar sürede çalışacağını tahmin edebilirsiniz.
+
+Adım: Bellek kullanımını belirleyin. Algoritmanın bellek kullanımı, algoritmanın boyutu ve veri yapısına bağlı olarak değişebilir.
+
+Adım: Algoritmanın verimliliğini artırmak için iyileştirme yapın. Algoritmanın performansını artırmak için, daha iyi bir veri yapısı seçebilir veya daha hızlı bir işlem kullanabilirsiniz.
+
+Algoritma analizi yapmak için kullanılan yöntemlerden bazıları şunlardır:
+
+Büyük O gösterimi: Bu yöntem, algoritmanın en kötü senaryoda ne kadar sürede çalışacağını belirlemek için kullanılır.
+
+Amortized Analiz: Bu yöntem, algoritmanın zaman karmaşıklığını hesaplamak için kullanılır ve algoritmanın her bir adımının maliyeti dengelenir.
+
+Maliyet tabloları: Bu yöntem, algoritmanın çalışma zamanını ve bellek kullanımını hesaplamak için kullanılır.
+
+Algoritma analizi yapmak, yazılım mühendisliğinde önemli bir beceridir. Algoritma analizi yaparak, daha verimli ve hızlı çalışan yazılımlar oluşturabilirsiniz.
